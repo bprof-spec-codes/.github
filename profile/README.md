@@ -3,7 +3,7 @@ A [Szoftver specializáció](https://bprof-spec.github.io/)ra járó hallgatók 
 
 Jelenleg futó projektek:
 - 🖼 [Paste img](https://github.com/bprof-spec-codes/pasteimg)
-- 💭 [Spec Chat](https://github.com/bprof-spec-codes/specchat)
+- 💭 [SpeChat](https://github.com/bprof-spec-codes/specchat)
 - 📊 [Student monitor](https://github.com/bprof-spec-codes/studmon)
 - [todo](#)
 - [todo](#)
