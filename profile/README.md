@@ -1,6 +1,9 @@
 ## BPROF Szoftver specializáció 💻
 A [Szoftver specializáció](https://bprof-spec.github.io/)ra járó hallgatók munkáit összefogó csoport, ahol a félévekkel kapcsolatos dokumentumok, kódok és egyéb csoportos munkák állományai találhatók meg.
 
+Aktuális félévvel kapcsolatos dokumentumok:
+- [Projektmunka I.](https://github.com/bprof-spec-codes/docs/tree/master/PROJM-1-2022-2023-2)
+
 Jelenleg futó projektek:
 - 🖼 [Paste Img](https://github.com/bprof-spec-codes/pasteimg)
 - 💭 [Spec Chat](https://github.com/bprof-spec-codes/specchat)
