@@ -5,10 +5,10 @@ Aktuális félévvel kapcsolatos dokumentumok:
 - [Projektmunka I.](https://github.com/bprof-spec-codes/docs/tree/master/PROJM-1-2022-2023-2)
 
 Jelenleg futó projektek:
-- 🖼 [Paste Img](https://github.com/bprof-spec-codes/pasteimg)
-- 💭 [Spec Chat](https://github.com/bprof-spec-codes/specchat)
-- 📊 [Student Monitor](https://github.com/bprof-spec-codes/studmon)
-- 💾 [Software Manager](https://github.com/bprof-spec-codes/softman)
-- 📹 [Video Portal](https://github.com/bprof-spec-codes/videoportal)
-- 🕹 [Word Quiz](https://github.com/bprof-spec-codes/wordquiz)
+- 🖼 Paste Img • [repo](https://github.com/bprof-spec-codes/pasteimg) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/pasteimg.md)
+- 💭 Spec Chat • [repo](https://github.com/bprof-spec-codes/specchat) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/specchat.md)
+- 📊 Student Monitor • [repo](https://github.com/bprof-spec-codes/studmon) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/studmon.md)
+- 💾 Software Manager • [repo](https://github.com/bprof-spec-codes/softman) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/softman.md)
+- 📹 Video Portal • [repo](https://github.com/bprof-spec-codes/videoportal) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/videoportal.md)
+- 🕹 Word Quiz • [repo](https://github.com/bprof-spec-codes/wordquiz) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/wordquiz.md)
 
