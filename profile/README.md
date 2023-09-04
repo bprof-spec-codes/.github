@@ -9,7 +9,7 @@ Aktuális félévvel kapcsolatos dokumentumok:
 - [Projektmunka I.](https://github.com/bprof-spec-codes/docs/tree/master/PROJM-1-2022-2023-2)
 - [Követelmények, mérföldkövek](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/project-final-demo-requirements.md)
 
-Jelenleg futó projektek:
+2022-23-2. félévben elkészített projektek:
 - 🖼 Paste Img • [repo](https://github.com/bprof-spec-codes/pasteimg) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/pasteimg.md)
 - 💭 Spec Chat • [repo](https://github.com/bprof-spec-codes/specchat) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/specchat.md)
 - 📊 Student Monitor • [repo](https://github.com/bprof-spec-codes/studmon) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/projects/studmon.md)
