@@ -2,6 +2,10 @@
 A [Szoftver specializáció](https://bprof-spec.github.io/)ra járó hallgatók munkáit összefogó csoport, ahol a félévekkel kapcsolatos dokumentumok, kódok és egyéb csoportos munkák állományai találhatók meg.
 
 Aktuális félévvel kapcsolatos dokumentumok:
+- TODO
+
+
+2022-23-2. félévvel kapcsolatos dokumentumok:
 - [Projektmunka I.](https://github.com/bprof-spec-codes/docs/tree/master/PROJM-1-2022-2023-2)
 - [Követelmények, mérföldkövek](https://github.com/bprof-spec-codes/docs/blob/master/PROJM-1-2022-2023-2/project-final-demo-requirements.md)
 
