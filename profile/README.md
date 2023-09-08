@@ -2,8 +2,15 @@
 A [Szoftver specializáció](https://bprof-spec.github.io/)ra járó hallgatók munkáit összefogó csoport, ahol a félévekkel kapcsolatos dokumentumok, kódok és egyéb csoportos munkák állományai találhatók meg.
 
 Aktuális félévvel kapcsolatos dokumentumok:
-- TODO
+- [ÖLAB (feladatok, csapatbeosztás)](https://github.com/bprof-spec-codes/docs/tree/master/BRPOF-2022/%C3%96LAB-2-2023-2024-1)
 
+2023-24-1. félévben elkészített projektek:
+- 🕹 ProgGame • [repo](https://github.com/bprof-spec-codes/proggame)
+- 👨‍🎓 AnoStud • [repo](https://github.com/bprof-spec-codes/anostud)
+- 📆 WorkCal • [repo](https://github.com/bprof-spec-codes/workcal)
+- 📼 OETube • [repo](https://github.com/bprof-spec-codes/oetube)
+
+<br><br>
 
 2022-23-2. félévvel kapcsolatos dokumentumok:
 - [Projektmunka I.](https://github.com/bprof-spec-codes/docs/tree/master/PROJM-1-2022-2023-2)
