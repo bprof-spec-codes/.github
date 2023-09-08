@@ -2,13 +2,14 @@
 A [Szoftver specializáció](https://bprof-spec.github.io/)ra járó hallgatók munkáit összefogó csoport, ahol a félévekkel kapcsolatos dokumentumok, kódok és egyéb csoportos munkák állományai találhatók meg.
 
 Aktuális félévvel kapcsolatos dokumentumok:
-- [ÖLAB (feladatok, csapatbeosztás)](https://github.com/bprof-spec-codes/docs/tree/master/BRPOF-2022/%C3%96LAB-2-2023-2024-1)
+- [Csapatbeosztás](https://github.com/bprof-spec-codes/docs/blob/master/BRPOF-2022/%C3%96LAB-2-2023-2024-1/team-and-project-%20assignment.md)
+- [CoC](https://github.com/bprof-spec-codes/docs/blob/master/BRPOF-2022/%C3%96LAB-2-2023-2024-1/code-of-conduct.md)
 
 2023-24-1. félévben elkészített projektek:
-- 🕹 ProgGame • [repo](https://github.com/bprof-spec-codes/proggame)
-- 👨‍🎓 AnoStud • [repo](https://github.com/bprof-spec-codes/anostud)
-- 📆 WorkCal • [repo](https://github.com/bprof-spec-codes/workcal)
-- 📼 OETube • [repo](https://github.com/bprof-spec-codes/oetube)
+- 🕹 ProgGame • [repo](https://github.com/bprof-spec-codes/proggame) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/BRPOF-2022/%C3%96LAB-2-2023-2024-1/proggame.md)
+- 👨‍🎓 AnoStud • [repo](https://github.com/bprof-spec-codes/anostud) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/BRPOF-2022/%C3%96LAB-2-2023-2024-1/anostud.md)
+- 📆 WorkCal • [repo](https://github.com/bprof-spec-codes/workcal) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/BRPOF-2022/%C3%96LAB-2-2023-2024-1/workcal.md)
+- 📼 OETube • [repo](https://github.com/bprof-spec-codes/oetube) - [doc](https://github.com/bprof-spec-codes/docs/blob/master/BRPOF-2022/%C3%96LAB-2-2023-2024-1/oetube.md)
 
 <br><br>
 
